@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnlyDigits</string>
+    <string name="od_paste">Colar</string>
+    <string name="od_paste_here">Cole seu texto aqui</string>
+    <string name="od_clear">Limpar</string>
+    <string name="od_result">"Resultado: "</string>
+    <string name="od_filter">Filtrar</string>
+    <string name="od_back">Voltar</string>
+    <string name="od_copy">Copiar</string>
+    <string name="od_ad_id_banner">ca-app-pub-4322106949869518~5241026579</string>
+    <string name="od_ad_id_banner_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="od_error_empty">O texto não pode ser filtrado, pois está em branco.</string>
+    <string name="od_error_result">Erro ao filtrar texto. Por favor, tente novamente!</string>
+    <string name="od_error_message_format">Erro ao filtrar a mensagem. Verifique o conteúdo da mensagem e tente novamente.</string>
+    <string name="od_digits">Dígitos</string>
+</resources>
